@@ -4,7 +4,7 @@
 
 #### 공통
 
-- [ ] 상태바
+- [x] 상태바
 - [ ] 네비게이션바 (클릭: Friends, Chats, Find, More 페이지 이동)
 - [ ] Notification 배지
 
