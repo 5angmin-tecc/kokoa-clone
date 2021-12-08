@@ -25,3 +25,17 @@
 .friends-page {
   padding: 0 var(--horizontal-space);
 }
+
+.friends-page__channel {
+  margin-top: 19px;
+  border-top: var(--main-border);
+  padding-top: 16px;
+}
+
+.friends-page__channel-header {
+  margin-bottom: 24px;
+  display: flex;
+  justify-content: space-between;
+  color: #b9b9b9;
+  font-weight: 600;
+}
