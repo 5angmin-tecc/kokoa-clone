@@ -1,0 +1,18 @@
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--horizontal-space);
+  margin: 8px 4px 0 0;
+}
+
+.page-header__title {
+  font-size: 33px;
+  font-weight: 700;
+  letter-spacing: -1px;
+}
+
+.page-header__icons span {
+  font-size: 28px;
+  margin-left: 26px;
+}

@@ -6,6 +6,7 @@
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
 @import "components/badge.css";
+@import "components/page-header.css";
 
 /* Pages */
 @import "pages/login.css";
