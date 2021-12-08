@@ -5,8 +5,8 @@
 #### 공통
 
 - [x] 상태바
-- [ ] 네비게이션바 (클릭: Friends, Chats, Find, More 페이지 이동)
-- [ ] Notification 배지
+- [x] 네비게이션바 (클릭: Friends, Chats, Find, More 페이지 이동)
+- [x] Notification 배지
 
 #### Login 페이지
 

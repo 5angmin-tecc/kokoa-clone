@@ -1,0 +1,27 @@
+.badge {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 14px;
+  background-color: #ff6229;
+  color: white;
+}
+
+.badge__notification--number {
+  position: absolute;
+  left: 20px;
+  bottom: 16px;
+}
+
+.badge__notification--dot {
+  position: absolute;
+  left: 32px;
+  bottom: 28px;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+}
