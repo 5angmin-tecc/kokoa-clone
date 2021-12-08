@@ -7,9 +7,11 @@
 @import "components/nav-bar.css";
 @import "components/badge.css";
 @import "components/page-header.css";
+@import "components/user-component.css";
 
 /* Pages */
 @import "pages/login.css";
+@import "pages/friends.css";
 
 body {
   font-family: "Open Sans", sans-serif;

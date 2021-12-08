@@ -19,8 +19,8 @@
 #### Friends 페이지
 
 - [x] Friends 페이지 header
-- [ ] Info
-- [ ] 사용자목록
+- [x] Info
+- [x] 사용자목록
 - [ ] 채널목록
 
 #### Chats 페이지
