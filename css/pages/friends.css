@@ -3,7 +3,7 @@
   justify-content: center;
   align-items: center;
   padding: 16px 0;
-  margin-top: -4px;
+  margin-top: -14px;
   margin-bottom: 8px;
   font-size: 18px;
   font-weight: 600;
@@ -20,10 +20,6 @@
 
 #friends-display-link span {
   margin: 0 16px 0 6px;
-}
-
-.friends-page {
-  padding: 0 var(--horizontal-space);
 }
 
 .friends-page__channel {

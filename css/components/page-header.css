@@ -3,7 +3,7 @@
   justify-content: space-between;
   align-items: center;
   padding: var(--horizontal-space);
-  margin: 8px 4px 0 0;
+  margin: 8px 4px 10px 0;
 }
 
 .page-header__title {

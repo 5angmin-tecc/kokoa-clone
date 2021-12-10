@@ -2,11 +2,11 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 24px;
-  height: 24px;
-  border-radius: 12px;
+  width: 26px;
+  height: 26px;
+  border-radius: 13px;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 15px;
   background-color: #ff6229;
   color: white;
 }
@@ -15,6 +15,10 @@
   position: absolute;
   left: 20px;
   bottom: 16px;
+  width: 24px;
+  height: 24px;
+  border-radius: 12px;
+  font-size: 14px;
 }
 
 .badge__notification--dot {

@@ -25,8 +25,8 @@
 
 #### Chats 페이지
 
-- [ ] Chats 페이지 header
-- [ ] 채팅목록 (클릭: Chats 페이지 -> Chat 페이지)
+- [x] Chats 페이지 header
+- [x] 채팅목록 (클릭: Chats 페이지 -> Chat 페이지)
 
 #### Find 페이지
 
