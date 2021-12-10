@@ -12,7 +12,8 @@
   letter-spacing: -1.6px;
 }
 
-.page-header__icons span {
-  font-size: 28px;
+.page-header__icons > span {
+  position: relative;
   margin-left: 26px;
+  font-size: 28px;
 }
