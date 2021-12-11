@@ -8,6 +8,7 @@
 @import "components/badge.css";
 @import "components/page-header.css";
 @import "components/user-component.css";
+@import "components/icon-row.css";
 
 /* Pages */
 @import "pages/login.css";
