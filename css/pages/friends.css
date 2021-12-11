@@ -32,6 +32,6 @@
   margin-bottom: 24px;
   display: flex;
   justify-content: space-between;
-  color: #b9b9b9;
+  color: var(--light-gray);
   font-weight: 600;
 }

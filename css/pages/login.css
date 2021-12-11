@@ -15,7 +15,7 @@
 .welcome-header__text {
   font-size: 20px;
   line-height: 24px;
-  color: #9d9d9d;
+  color: var(--gray);
 }
 
 .login-form {
@@ -33,7 +33,7 @@
 }
 
 .login-form__input::placeholder {
-  color: #9d9d9d;
+  color: var(--gray);
 }
 
 .login-form__input:focus {
