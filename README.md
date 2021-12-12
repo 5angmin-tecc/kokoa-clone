@@ -37,10 +37,10 @@
 
 #### More 페이지
 
-- [ ] More 페이지 header (설정 아이콘 클릭: More 페이지 -> Settings 페이지)
-- [ ] 사용자 프로필
-- [ ] 캘린더, Talk drive, 이모티콘, 테마, Account, Openchat
-- [ ] 추천목록
+- [x] More 페이지 header (설정 아이콘 클릭: More 페이지 -> Settings 페이지)
+- [x] 사용자 프로필
+- [x] 캘린더, Talk drive, 이모티콘, 테마, Account, Openchat
+- [x] 추천목록
 
 #### Settings 페이지
 
