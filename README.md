@@ -44,8 +44,8 @@
 
 #### Settings 페이지
 
-- [ ] Settings 페이지 header (뒤로 아이콘 클릭: Settings 페이지 -> More 페이지)
-- [ ] 설정목록
+- [x] Settings 페이지 header (뒤로 아이콘 클릭: Settings 페이지 -> More 페이지)
+- [x] 설정목록
 
 #### Chat 페이지
 

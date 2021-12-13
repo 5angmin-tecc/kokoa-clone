@@ -11,6 +11,13 @@
   color: white;
 }
 
+.badge--sm {
+  width: 24px;
+  height: 24px;
+  border-radius: 12px;
+  font-size: 14px;
+}
+
 .badge__notification--number {
   position: absolute;
   left: 20px;

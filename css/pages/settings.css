@@ -1,0 +1,42 @@
+.settings-page {
+  margin: 0 -22px;
+}
+
+.settings-list {
+  margin-top: 22px;
+  padding-bottom: 22px;
+  border-bottom: 2px solid #f3f3f3;
+}
+
+.settings__setting {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 22px 24px 30px;
+  border-bottom: 1px solid #f8f8f8;
+  font-size: 23px;
+  font-weight: 500;
+}
+
+.settings__setting:last-child {
+  border-bottom: none;
+}
+
+.settings__setting i {
+  width: 28px;
+  height: 28px;
+  margin-right: 24px;
+  font-size: 28px;
+}
+
+.settings__setting span {
+  margin-right: 8px;
+}
+
+.settings__setting-column {
+  display: flex;
+}
+
+.settings__setting-column:last-child {
+  color: var(--gray);
+}
