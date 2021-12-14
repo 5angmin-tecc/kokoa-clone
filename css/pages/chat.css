@@ -1,0 +1,158 @@
+#chat-page {
+  background-color: #abc1d1;
+}
+
+#chat-page .alt-header {
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #abc1d1;
+}
+
+#chat-page .status-bar {
+  background-color: #abc1d1;
+}
+
+.main-chat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 86px -8px;
+}
+
+.chat__timestamp {
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 16px;
+  color: #dde3e7;
+  background-color: #92a4b2;
+}
+
+.message-row {
+  display: flex;
+  width: 100%;
+  margin-top: 24px;
+}
+
+.message-row img {
+  width: 48px;
+  height: 48px;
+  margin-right: 12px;
+  border-radius: 16px;
+  font-weight: 500;
+}
+
+.message__author {
+  display: block;
+  margin: 2px 0 8px;
+  font-size: 18px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.message__info {
+  display: flex;
+  align-items: flex-end;
+}
+
+.message__bubble {
+  margin-right: 8px;
+  padding: 14px;
+  border-radius: 16px;
+  border-top-left-radius: 0;
+  font-size: 20px;
+  font-weight: 600;
+  background-color: white;
+}
+
+.message__time {
+  font-size: 14px;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.3);
+}
+
+.message-row--own {
+  justify-content: flex-end;
+}
+
+.message-row--own .message__bubble {
+  margin-left: 8px;
+  border-radius: 16px;
+  border-top-right-radius: 0;
+  background-color: var(--yellow);
+}
+
+.message-row--own .message__info {
+  flex-direction: row-reverse;
+}
+
+.reply {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 64px;
+  padding: 8px var(--horizontal-space);
+  box-sizing: border-box;
+  background-color: white;
+}
+
+.reply .reply__column:first-child {
+  width: 10%;
+}
+
+.reply .reply__column:last-child {
+  position: relative;
+  width: 90%;
+}
+
+.reply i {
+  color: #a1a4ab;
+}
+
+.reply input {
+  width: 100%;
+  height: 48px;
+  padding: 0 14px;
+  border: 1px solid #dde3e7;
+  border-radius: 24px;
+  box-sizing: border-box;
+  font-size: 18px;
+}
+
+.reply__column:first-child > i {
+  font-size: 32px;
+}
+
+.reply__column:last-child > i,
+.reply__column:last-child button {
+  position: absolute;
+  right: 3px;
+  top: 3px;
+}
+
+.reply__column:last-child > i {
+  right: 69px;
+  top: 11px;
+  font-size: 28px;
+}
+
+.reply__column button {
+  width: 42px;
+  height: 42px;
+  border: none;
+  border-radius: 50%;
+  background-color: var(--yellow);
+}
+
+.reply__column button i {
+  color: black;
+  font-size: 22px;
+}
+
+.reply__column button:focus,
+.reply__column button:active {
+  outline: none;
+}

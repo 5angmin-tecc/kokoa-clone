@@ -17,6 +17,7 @@
 @import "pages/find.css";
 @import "pages/more.css";
 @import "pages/settings.css";
+@import "pages/chat.css";
 
 body {
   font-family: "Open Sans", sans-serif;
