@@ -4,10 +4,10 @@
   align-items: center;
   width: 100%;
   height: 48px;
-  margin: 8px 0;
-  padding: var(--horizontal-space);
+  padding: 36px 22px;
   box-sizing: border-box;
   font-size: 28px;
+  background-color: white;
 }
 
 .alt-header__title {

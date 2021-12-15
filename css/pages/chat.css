@@ -1,9 +1,11 @@
 #chat-page {
   background-color: #abc1d1;
+  height: 200vh;
 }
 
 #chat-page .alt-header {
   position: fixed;
+  top: 24px;
   width: 100%;
   box-sizing: border-box;
   background-color: #abc1d1;
@@ -17,7 +19,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 86px -8px;
+  margin: 110px -8px;
 }
 
 .chat__timestamp {

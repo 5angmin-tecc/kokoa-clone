@@ -1,5 +1,14 @@
+#settings {
+  height: 200vh;
+}
+
+#settings .alt-header {
+  position: fixed;
+  top: 24px;
+}
+
 .settings-page {
-  margin: 0 -22px;
+  margin: 104px -22px;
 }
 
 .settings-list {
