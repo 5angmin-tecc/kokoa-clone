@@ -10,6 +10,7 @@
 @import "components/user-component.css";
 @import "components/icon-row.css";
 @import "components/alt-page-header.css";
+@import "components/no-mobile.css";
 
 /* Pages */
 @import "pages/login.css";
